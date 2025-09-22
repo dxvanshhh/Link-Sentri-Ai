@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "LinkSentry AI - Creative Edition",
+  "version": "1.0",
+  "description": "An innovative AI that provides a risk score and reason for every link you visit.",
+  "permissions": [
+    "webNavigation",
+    "notifications",
+    "tabs"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:5000/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png"
+  }
+}
