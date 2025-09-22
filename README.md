@@ -1,7 +1,11 @@
 # Link-Sentri-Ai
 # 🛡️ LinkSentry AI: Proactive Phishing Threat Neutralization
 
-**Team Name:** [Your Team Name]
+**Team Name:** DCoderZ
+**Team Members:** 1.Devansh Raizada
+                  2.Aabir Das 
+                  3. Lakshya Goyal
+                  4. Niyati Saxena
 **Deviathon 2025**
 
 ## 💡 The Problem
